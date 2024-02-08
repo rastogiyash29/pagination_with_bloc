@@ -13,14 +13,18 @@ https://github.com/rastogiyash29/pagination_with_bloc/assets/105515175/20c38b7c-
 
 ## Screenshots
 **1. HomeScreen**<br>
-<img src="https://github.com/rastogiyash29/flutter_assignment_amazon_prime/assets/105515175/6642fd2f-db6a-442e-b125-9548cd024bec" width="300" height="600"><br><br>
-<img src="https://github.com/rastogiyash29/flutter_assignment_amazon_prime/assets/105515175/6af48c75-30a4-4804-a792-b5315e7739cd" width="300" height="600"><br><br>
+<img src="https://github.com/rastogiyash29/pagination_with_bloc/assets/105515175/f238ad9d-67f8-4259-8249-c70e370fefb6" width="300" height="600"><br><br>
+<img src="https://github.com/rastogiyash29/pagination_with_bloc/assets/105515175/c25178fe-8f6c-4599-ae89-b2459915db14" width="300" height="600"><br><br>
+<img src="https://github.com/rastogiyash29/pagination_with_bloc/assets/105515175/bb0e133b-888a-44a3-9ce6-3d149b62c19b" width="300" height="600"><br><br>
 
 **2. WishList Page**<br>
-<img src="https://github.com/rastogiyash29/flutter_assignment_amazon_prime/assets/105515175/d4d480b4-1083-4537-ba90-ddc9878d9eb4" width="300" height="600"><br><br>
+<img src="https://github.com/rastogiyash29/pagination_with_bloc/assets/105515175/fcf7c674-bcfc-4ad3-bca2-d62cdbfc24a9" width="300" height="600"><br><br>
 
 **3. Cart Page**<br>
-<img src="https://github.com/rastogiyash29/flutter_assignment_amazon_prime/assets/105515175/b8f3e9a5-cc5c-489e-b49c-ed533aebe329" width="300" height="600"><br><br>
+<img src="https://github.com/rastogiyash29/pagination_with_bloc/assets/105515175/9fedb03d-a4d0-453a-9727-5301262c5992" width="300" height="600"><br><br>
+
+**4. Splash Screen**<br>
+<img src="https://github.com/rastogiyash29/pagination_with_bloc/assets/105515175/01023e21-c5c7-4ef9-a33d-3034f7988d2f" width="300" height="600"><br><br>
 
 ## Getting Started
 You can directly pull the code and build an app from it. and finally use and enjoy.
