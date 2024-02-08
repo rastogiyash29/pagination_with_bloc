@@ -4,6 +4,13 @@ This is a simple Pagination with bloc representing the app, built using Flutter.
 
 I am attaching screenshots and a screen recording of the app below:
 
+## Note: Just added Share functionality in the app
+<img src="https://github.com/rastogiyash29/pagination_with_bloc/assets/105515175/7c669740-ff40-4c70-9a8a-3c621448b079" width="300" height="600">
+<img src="https://github.com/rastogiyash29/pagination_with_bloc/assets/105515175/9dc647d3-f66d-4217-95a8-bb8e71ed2801" width="300" height="600">
+<img src="https://github.com/rastogiyash29/pagination_with_bloc/assets/105515175/4b23c92b-408e-4589-93bf-b6f9fd04a05c" width="300" height="600">
+<br>
+<br>
+
 ## Screen-recording
 # In HD quality
 https://drive.google.com/file/d/15yJ5AoaWk3LB6rIT09cSUNVoFzmLjyO6/view?usp=sharing
