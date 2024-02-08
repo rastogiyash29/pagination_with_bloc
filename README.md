@@ -1,4 +1,4 @@
-# flutter_assignment
+# Pagination with Bloc by YASH 
 
 This is a simple Pagination with bloc representing the app, built using Flutter. It loads 10 products per page.
 
